@@ -195,8 +195,8 @@ Completed intensive training in full-stack web development, building projects wi
 
 ### 📜 Certifications
 
-[![AWS Cloud Practitioner Essentials](https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-8B5CF6?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
-[![MERN Stack Training](https://img.shields.io/badge/MERN_Stack_Training-Sheryians_Coding_School-6366F1?style=for-the-badge)](#)
+[![AWS Cloud Practitioner Essentials]([https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-8B5CF6?style=for-the-badge&logo=amazonaws&logoColor=white](https://www.linkedin.com/in/aryamanthan/overlay/Certifications/872844935/treasury/?profileId=ACoAAE3uLU4BHxNi-eBSO36fFN_QissAw86kLiM))](#)
+[![MERN Stack Training]([https://img.shields.io/badge/MERN_Stack_Training-Sheryians_Coding_School-6366F1?style=for-the-badge](https://www.linkedin.com/in/aryamanthan/overlay/Certifications/873402533/treasury/?profileId=ACoAAE3uLU4BHxNi-eBSO36fFN_QissAw86kLiM))](#)
 
 ---
 
@@ -204,7 +204,7 @@ Completed intensive training in full-stack web development, building projects wi
 
 <!-- Add your real handles — remove any platform you don't use -->
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-your--leetcode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-leetcode)
+[![LeetCode](https://img.shields.io/badge/LeetCode-your--leetcode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)]([https://leetcode.com/your-leetcode](https://leetcode.com/u/aryamanthan/))
 [![GeeksforGeeks](https://img.shields.io/badge/GfG-your--gfg-6366F1?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/your-gfg)
 [![HackerRank](https://img.shields.io/badge/HackerRank-your--hackerrank-A78BFA?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your-hackerrank)
 [![CodeChef](https://img.shields.io/badge/CodeChef-your--codechef-6D28D9?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/your-codechef)
